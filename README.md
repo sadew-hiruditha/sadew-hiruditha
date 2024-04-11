@@ -2,7 +2,7 @@
 <h3 align="center">Unleashing Passion in Software Engineering</h3>
 <img align ="right" alt"coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadew-hiruditha&label=Profile%20views&color=0e75b6&style=flat" alt="sadew-hiruditha" /> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
