@@ -22,7 +22,7 @@
 </table>
 
 <h2>&lt;/pc bucket list></h2>
-<a href="https://www.youtube.com/@pcbucketlist target="_blank""><img src="https://github.com/sadew-hiruditha/sadew-hiruditha/assets/85439669/7924d250-a1e6-41f6-8ca2-ce725d498d47"></a>
+<a href="https://www.youtube.com/@pcbucketlist" target="_blank"><img src="https://github.com/sadew-hiruditha/sadew-hiruditha/assets/85439669/7924d250-a1e6-41f6-8ca2-ce725d498d47"></a>
 
 
 
