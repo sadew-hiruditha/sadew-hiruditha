@@ -11,6 +11,11 @@
 
 <h3 style="color:red;">🎓 IIT Undergraduate at Uva Wellassa University</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sadew-hiruditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadew-hiruditha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pcbucketlist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadew-hiruditha" height="30" width="40" /></a>
+</p>
 
 <table align="center">
 <tr>
